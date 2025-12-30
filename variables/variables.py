@@ -10,5 +10,5 @@ bienvenida = f"Hola {nombre} ¿Cómo estás?"
 print(bienvenida)
 
 # operadores de pertenecia ()in / not in)
-print("hon" in bienvenida)
+print("nny" in bienvenida)
 print("Lucas" not in bienvenida)
