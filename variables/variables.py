@@ -9,6 +9,6 @@ nombre = "Jhonny"
 bienvenida = f"Hola {nombre} ¿Cómo estás?"
 print(bienvenida)
 
-# operadores de pertenecia ()in / not in)
+# operadores de pertenecia (in / not in)
 print("nny" in bienvenida)
 print("Lucas" not in bienvenida)
