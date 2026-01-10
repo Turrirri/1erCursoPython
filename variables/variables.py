@@ -8,8 +8,7 @@ print(c)
 nombre = 'Jhonny'
 
 # concatenar con +
-bienvenida = "Hola " + nombre + " ¿Cómo estas?"  ''' Al concatenar con '+' hay\
-que estar pendiente de dejar espacios '''
+bienvenida = "Hola " + nombre + " ¿Cómo estas?"  # Al concatenar con '+' hay que estar pendiente de dejar espacios
 print(bienvenida)
 
 # concatenar con f-strings
